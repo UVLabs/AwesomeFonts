@@ -3,3 +3,7 @@ Vintage Fonts
 Niconne: https://www.google.com/fonts#UsePlace:use/Collection:Niconne
 Cinzel: https://www.google.com/fonts#UsePlace:use/Collection:Cinzel
 PT Serif: https://www.google.com/fonts#UsePlace:use/Collection:PT+Serif
+
+Stroke
+
+Kaushan Script: https://fonts.google.com/specimen/Kaushan+Script?query=Kaushan+Script
